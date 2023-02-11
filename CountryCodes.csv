@@ -13,7 +13,7 @@ Aruba,ABW
 Australia,AUS
 Austria,AUT
 Azerbaijan,AZE
-"Bahamas, The",BHM
+Bahamas,BHM
 Bahrain,BHR
 Bangladesh,BGD
 Barbados,BRB
@@ -44,8 +44,8 @@ Chile,CHL
 China,CHN
 Colombia,COL
 Comoros,COM
-"Congo, Democratic Republic of the",COD
-"Congo, Republic of the",COG
+Democratic Republic of the Congo,COD
+Republic of the Congo,COG
 Cook Islands,COK
 Costa Rica,CRI
 Cote d'Ivoire,CIV
@@ -65,14 +65,14 @@ Equatorial Guinea,GNQ
 Eritrea,ERI
 Estonia,EST
 Ethiopia,ETH
-Falkland Islands (Islas Malvinas),FLK
+Falkland Islands,FLK
 Faroe Islands,FRO
 Fiji,FJI
 Finland,FIN
 France,FRA
 French Polynesia,PYF
 Gabon,GAB
-"Gambia, The",GMB
+Gambia,GMB
 Georgia,GEO
 Germany,DEU
 Ghana,GHA
@@ -106,8 +106,8 @@ Jordan,JOR
 Kazakhstan,KAZ
 Kenya,KEN
 Kiribati,KIR
-"Korea, North",KOR
-"Korea, South",PRK
+North Korea,KOR
+South Korea,PRK
 Kosovo,KSV
 Kuwait,KWT
 Kyrgyzstan,KGZ
@@ -132,7 +132,7 @@ Marshall Islands,MHL
 Mauritania,MRT
 Mauritius,MUS
 Mexico,MEX
-"Micronesia, Federated States of",FSM
+Federated States of Micronesia,FSM
 Moldova,MDA
 Monaco,MCO
 Mongolia,MNG
